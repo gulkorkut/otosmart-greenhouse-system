@@ -1,0 +1,2 @@
+web: java -jar target/activity-tracker-server-0.0.1-SNAPSHOT.jar
+worker: python ML/classification_script.py
