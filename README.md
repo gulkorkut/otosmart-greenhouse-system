@@ -18,3 +18,8 @@ Clone the repository.
 Set up the hardware components according to the documentation.
 Install the necessary dependencies for Arduino, Raspberry Pi, and APIs.
 Run the software components and access the system via the web frontend.
+## Design
+![image](https://github.com/gulkorkut/otosmart-greenhouse-system/assets/94754805/e51f2a03-3f6d-4e46-8ecf-723c99c966c5)
+## Demo
+![image](https://github.com/gulkorkut/otosmart-greenhouse-system/assets/94754805/21f9a8b8-cedf-46de-b747-29a134f9446a)
+
